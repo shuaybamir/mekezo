@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0:
+}
+
+
+section{
+  height: 100vh;
+}
+.navbar{
+  height:8vh ;
+  background-color:gray;
+  display: flex;
+justify-content: space-between;  
+}
+.navbaritem ul{
+  display: flex;
+}
+.navbar li{
+  margin-left: 30px;
+  list-style: none;
+}
+
+
+
+
+
+
+
+
